@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "103",
+        "name": "Pranam_Kolhapure",
+        "age": "19",
+        "course": "Computer_Science"
+    },
+    {
+        "student_id": "101",
+        "name": "Yash_kharatmal",
+        "age": "21",
+        "course": "B.Com"
+    }
+]
